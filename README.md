@@ -1,10 +1,10 @@
 # My MacOS Installation Guide
 
-### Step 1: Go through the installer
+## Step 1: Go through the installer
 
 Simply, just finish the installer.
 
-### Step 2: Must change settings
+## Step 2: Must change settings
 
 1) Update MacOS
 2) Settings --> General --> Software Update --> click the icon next to Automatic updates --> enable 'Install Security Responses and system files'
@@ -36,13 +36,13 @@ Simply, just finish the installer.
 28) Settings -->
 29) Settings -->
 
-### Step 3: Other Settings
+## Step 3: Other Settings
 
 1) Right click on the desktop (NOT in finder) --> Click 'Use Stacks'
 2) Remove all unnecessary apps from the dock
 3) Organize the apps in Launchpad
 
-### Step 4: Finder Settings
+## Step 4: Finder Settings
 
 1) Open finder --> Click on Desktop --> Right click --> Show View Options --> Change 'Sort By:' to 'Snap to Grid' --> Click 'Use as Defaults'
 2) Open finder --> View --> enable 'Show Path Bar'
@@ -57,8 +57,8 @@ Simply, just finish the installer.
 11) Open finder --> in root folder (username folder) --> make a 'Developer' folder
 12) Open finder --> Change the sidebar order
 
-### Step 5: Commands to execute
-#### Auto Show/Hide Dock:
+## Step 5: Commands to execute
+### Auto Show/Hide Dock:
 
 keep smooth animation time, but remove delay:
 `defaults write com.apple.dock autohide-delay -float 0; killall Dock`
@@ -69,7 +69,7 @@ instantly reveal:
 restore default behavior:
 `defaults delete com.apple.dock autohide-delay; killall Dock`
 
-### Step 6: Homebrew
+## Step 6: Homebrew
 
 
 
@@ -78,7 +78,7 @@ restore default behavior:
 
 
 
-### Applications
+## Applications
 - Firefox
 - Arc
 - Bitwarden
