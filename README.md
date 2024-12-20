@@ -1,4 +1,4 @@
-# MacOS
+# My MacOS Installation Guide
 
 ## Applications
 - Bitwarden
