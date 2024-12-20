@@ -83,7 +83,7 @@ restore default behavior:
 - Arc
 - Bitwarden
 - Docker
-- Terminal (iTerm2 ??) (maybe something else)
+- Terminal (iTerm2 / warp / ...)
 - Logi Options+
 - Notion ?? (maybe use web version or not ??)
 - Rectangle (window manager) (maybe something else ??)
