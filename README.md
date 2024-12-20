@@ -69,7 +69,7 @@ instantly reveal:
 restore default behavior:
 `defaults delete com.apple.dock autohide-delay; killall Dock`
 
-### Step 6:
+### Step 6: Homebrew
 
 
 
@@ -79,9 +79,10 @@ restore default behavior:
 
 
 ### Applications
+- Firefox
+- Arc
 - Bitwarden
 - Docker
-- Firefox
 - Terminal (iTerm2 ??) (maybe something else)
 - Logi Options+
 - Notion ?? (maybe use web version or not ??)
