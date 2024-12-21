@@ -124,6 +124,27 @@ restore default behavior:
 
 ## Step 8: GitHub Setup
 
+### Config Git
+- `git config --global user.name "you name"`
+- `git config --global user.email your_email@example.com`
+
+### GitHub Generate SSH Key
+- `ssh-keygen -t ed25519 -C "your_email@example.com"`
+- Save to default location
+- Enter passphrase
+- `eval "$(ssh-agent -s)"`
+- `nano ~/.ssh/config`
+- ```
+  Host github.com
+    AddKeysToAgent yes
+    UseKeychain yes
+    IdentityFile ~/.ssh/id_ed25519
+  ``` 
+- `ssh-add --apple-use-keychain ~/.ssh/id_ed25519`
+
+### GitHub Add SSH Key
+- ``
+
 ## Step 9: dotfiles Setup
 
 [YouTube Video](https://www.youtube.com/watch?v=GK7zLYAXdDs) --> (Minute: 44:53)
