@@ -7,10 +7,10 @@ iterm2
 warp
 logi-options+
 notion
-rectangle          # window manager
+rectangle
 alt-tab
 hiddenbar
-kap                # Screen recorder / Screenshot tool
+kap
 spotify
 surfshark
 twingate
