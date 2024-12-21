@@ -143,7 +143,9 @@ restore default behavior:
 - `ssh-add --apple-use-keychain ~/.ssh/id_ed25519`
 
 ### GitHub Add SSH Key
-- ``
+- `pbcopy < ~/.ssh/id_ed25519.pub`
+- Go to GitHub website --> Settings --> SSH and GPG keys --> New SSH key or Add SSH key
+- Give it a title and paste the key in the Key box
 
 ## Step 9: dotfiles Setup
 
