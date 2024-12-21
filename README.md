@@ -89,30 +89,6 @@ restore default behavior:
 - `xargs brew install < packages.txt`
 - `xargs -I {} brew install --cask {} < applications.txt`
 
-### Applications:
-- Firefox
-- Arc
-- Raycast
-- Bitwarden
-- Docker (Docker Desktop)
-- Terminal (iTerm2 + oh my zsh / warp / ...)
-- Logi Options+
-- Notion ?? (maybe use web version or not ??)
-- Rectangle (window manager) (maybe something else ??)
-- AltTab
-- Hidden Bar
-- Kap (Screen recorder / Screenshot tool)
-- Spotify
-- Surfshark
-- Twingate
-- VS Code
-- Microsoft Office Suite (Microsoft365)
-- nvm (node version manager)
-- Git
-- Postman
-- Figma
-- ...
-
 ## Step 7: iTerm2 + oh my zsh Setup
 
 ### Terminal Setup
