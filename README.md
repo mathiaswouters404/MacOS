@@ -19,15 +19,15 @@ Simply, just finish the installer.
 11) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> disable Show Items On Desktop --> disable Show Items In Stage Manager
 12) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> change 'Click wallpaper to reveal desktop' to 'Only in Stage Manager'
 13) Settings --> Desktop & Dock --> at Mission Control --> enable 'Group windows by application'
-14) Settings --> Trackpad --> enable 'Tap to click'
-15) Settings --> Wallpaper --> change to own wallpaper
-16) Settings --> Displays --> change 'Use as' to 'More Space'
-17) Settings --> Displays --> disable 'Automatically adjust brightness'
-18) Settings --> Control Center --> change 'Bluetooth' to 'Show in Menu Bar'
-19) Settings --> Control Center --> change 'Sound' to 'Always Show in Menu Bar'
-20) Settings --> Control Center --> at Battery enable 'Show Percentage'
-21) Settings --> Network --> enable 'Firewall'
-22) Settings -->
+14) Settings --> Displays --> disable 'Automatically adjust brightness'
+15) Settings --> Trackpad --> enable 'Tap to click'
+16) Settings --> Wallpaper --> change to own wallpaper
+17) Settings --> Displays --> change 'Use as' to 'More Space'
+18) Settings --> Displays --> disable 'Automatically adjust brightness'
+19) Settings --> Control Center --> change 'Bluetooth' to 'Show in Menu Bar'
+20) Settings --> Control Center --> change 'Sound' to 'Always Show in Menu Bar'
+21) Settings --> Control Center --> at Battery enable 'Show Percentage'
+22) Settings --> Network --> enable 'Firewall'
 23) Settings -->
 24) Settings -->
 25) Settings -->
@@ -36,6 +36,7 @@ Simply, just finish the installer.
 28) Settings -->
 29) Settings -->
 30) Settings -->
+31) Settings -->
 
 ## Step 3: Other Settings
 
