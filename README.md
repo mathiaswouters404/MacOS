@@ -96,30 +96,31 @@ restore default behavior:
 
 ## Step 7: iTerm2 + Oh-My-Zsh Setup
 
-### Terminal Setup
-- Install Oh-My-Zsh: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-- Install PowerLevel10k:
-  - `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
-  - `nano ~/.zshrc`
-  - Change the value of `ZSH_THEME` to `"powerlevel10k/powerlevel10k"`
-- PowerLevel10k configuration:
-  - `source ~/.zshrc`
-  - `y`
-  - Quit iTerm2
-  - Open iTerm2 --> If config wizard don't shows up run following cmd `p10k configure`
-  - Follow the config wizard
-- iTerm2 Preferences:
-  - Open: "Command + ,"
-  - Profiles --> Keys --> Presets... --> Natural Text Editing
-  - Profiles --> Colors --> Color Presets... --> Import... --> coolnight.itermcolors
-- Install ZSH Plugins:
-  - `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
-  - `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
-  - `nano ~/.zshrc` --> change `plugins=(git)` to `plugins=(git zsh-autosuggestions zsh-syntax-highlighting)`
-  - `source ~/.zshrc`
+### Install Oh-My-Zsh:
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
-### CLI Tools
-- ...
+### Install PowerLevel10k:
+- `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
+- `nano ~/.zshrc`
+- Change the value of `ZSH_THEME` to `"powerlevel10k/powerlevel10k"`
+
+### PowerLevel10k configuration:
+- `source ~/.zshrc`
+- `y`
+- Quit iTerm2
+- Open iTerm2 --> If config wizard don't shows up run following cmd `p10k configure`
+- Follow the config wizard
+
+### iTerm2 Preferences:
+- Open: "Command + ,"
+- Profiles --> Keys --> Presets... --> Natural Text Editing
+- Profiles --> Colors --> Color Presets... --> Import... --> coolnight.itermcolors
+
+### Install ZSH Plugins:
+- `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+- `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+- `nano ~/.zshrc` --> change `plugins=(git)` to `plugins=(git zsh-autosuggestions zsh-syntax-highlighting)`
+- `source ~/.zshrc`
 
 ## Step 8: GitHub Setup
 
