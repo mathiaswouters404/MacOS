@@ -94,11 +94,25 @@ restore default behavior:
 - `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/latest/install.sh | bash`
 - `nvm install node`
 
-## Step 7: iTerm2 + oh my zsh Setup
+## Step 7: iTerm2 + Oh-My-Zsh Setup
 
 ### Terminal Setup
+- Install Oh-My-Zsh: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+- Install PowerLevel10k:
+  - `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
+  - `nano ~/.zshrc`
+  - Change the value of `ZSH_THEME` to `"powerlevel10k/powerlevel10k"`
+- PowerLevel10k configuration:
+  - `source ~/.zshrc`
+  - `y`
+  - Quit iTerm2
+  - Open iTerm2 --> If config wizard don't shows up run following cmd `p10k configure`
+  - Follow the config wizard
+- iTerm2 Preferences:
+  - Open: "Command + ,"
+  - Profiles --> Keys --> Presets... --> Natural Text Editing
+  - Profiles --> Colors -->
 
-...
 
 ### CLI Tools
 - ...
