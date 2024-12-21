@@ -89,6 +89,9 @@ restore default behavior:
 - `xargs brew install < packages.txt`
 - `xargs -I {} brew install --cask {} < applications.txt`
 
+#### Install nvm (node.js):
+- ``
+
 ## Step 7: iTerm2 + oh my zsh Setup
 
 ### Terminal Setup
