@@ -98,6 +98,13 @@ restore default behavior:
 
 ## Step 7: iTerm2 + oh my zsh Setup
 
+### Terminal Setup
+
+...
+
+### CLI Tools
+- ...
+
 ## Step 8: GitHub Setup
 
 ## Step 9: dotfiles Setup
