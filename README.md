@@ -70,9 +70,26 @@ instantly reveal:
 restore default behavior:
 `defaults delete com.apple.dock autohide-delay; killall Dock`
 
-## Step 6: Homebrew
+## Step 6: Applications
 
-### Applications
+### Xcode Command Line Tools & Clone this repo
+- Xcode Command Line Tools include git and other things
+
+- Install Xcode Command Line Tools: `xcode-select --install`
+- Clone this repo: `git clone https://github.com/mathiaswouters404/macos-install`
+
+### Homebrew:
+- Install:
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- Execute the 2 commands given to you in the terminal to add homebrew to your path
+- Update brew: `brew update`
+
+#### Install applications:
+- `cd macos-install`
+- `xargs brew install < packages.txt`
+- `xargs -I {} brew install --cask {} < applications.txt`
+
+### Applications:
 - Firefox
 - Arc
 - Raycast
