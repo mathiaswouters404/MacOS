@@ -76,7 +76,7 @@ restore default behavior:
 - Firefox
 - Arc
 - Bitwarden
-- Docker Desktop
+- Docker (Docker Desktop)
 - Terminal (iTerm2 + oh my zsh / warp / ...)
 - Logi Options+
 - Notion ?? (maybe use web version or not ??)
