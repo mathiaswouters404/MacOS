@@ -57,6 +57,7 @@ Simply, just finish the installer.
 10) Open finder --> Settings --> Advanced --> change 'When performing a search' to 'Search the Current Folder'
 11) Open finder --> in root folder (username folder) --> make a 'Developer' folder
 12) Open finder --> Change the sidebar order
+13) Open finder --> Add NAS storage
 
 ## Step 5: Commands to execute
 ### Auto Show/Hide Dock:
