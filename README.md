@@ -7,36 +7,26 @@ Simply, just finish the installer.
 ## Step 2: Must change settings
 
 1) Update MacOS
-2) Settings --> General --> Software Update --> click the icon next to Automatic updates --> enable 'Install Security Responses and system files'
-3) Settings --> Appearance --> enable 'Dark mode'
-4) Settings --> Appearance --> change Accent and Highlight colors to color that I want
-5) Settings --> Appearance --> Switch Sidebar icon size to 'Small'
-6) Settings --> Desktop & Dock --> change Size (smaller) and Magnification 
-7) Settings --> Desktop & Dock --> enable 'Minimize windows into application icon'
-8) Settings --> Desktop & Dock --> enable 'Automatically hide and show the Dock'
-9) Settings --> Desktop & Dock --> disable 'Show recent applications in Dock'
-10) Settings --> Desktop & Dock --> disable 'Show suggested and recent apps in Dock'
-11) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> disable Show Items On Desktop --> disable Show Items In Stage Manager
-12) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> change 'Click wallpaper to reveal desktop' to 'Only in Stage Manager'
-13) Settings --> Desktop & Dock --> at Mission Control --> enable 'Group windows by application'
-14) Settings --> Displays --> disable 'Automatically adjust brightness'
-15) Settings --> Trackpad --> enable 'Tap to click'
-16) Settings --> Wallpaper --> change to own wallpaper
-17) Settings --> Displays --> change 'Use as' to 'More Space'
-18) Settings --> Displays --> disable 'Automatically adjust brightness'
-19) Settings --> Control Center --> change 'Bluetooth' to 'Show in Menu Bar'
-20) Settings --> Control Center --> change 'Sound' to 'Always Show in Menu Bar'
-21) Settings --> Control Center --> at Battery enable 'Show Percentage'
-22) Settings --> Network --> enable 'Firewall'
-23) Settings -->
-24) Settings -->
-25) Settings -->
-26) Settings -->
-27) Settings -->
-28) Settings -->
-29) Settings -->
-30) Settings -->
-31) Settings -->
+2) Settings --> Network --> enable 'Firewall'
+3) Settings --> General --> Software Update --> click the icon next to Automatic updates --> enable 'Install Security Responses and system files'
+4) Settings --> Appearance --> enable 'Dark mode'
+5) Settings --> Appearance --> change Accent and Highlight colors to color that I want
+6) Settings --> Appearance --> Switch Sidebar icon size to 'Small'
+7) Settings --> Control Center --> change 'Bluetooth' to 'Show in Menu Bar'
+8) Settings --> Control Center --> change 'Sound' to 'Always Show in Menu Bar'
+9) Settings --> Control Center --> at Battery enable 'Show Percentage'
+10) Settings --> Desktop & Dock --> change Size (smaller) and Magnification 
+11) Settings --> Desktop & Dock --> enable 'Minimize windows into application icon'
+12) Settings --> Desktop & Dock --> enable 'Automatically hide and show the Dock'
+13) Settings --> Desktop & Dock --> disable 'Show recent applications in Dock'
+14) Settings --> Desktop & Dock --> disable 'Show suggested and recent apps in Dock'
+15) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> disable Show Items On Desktop --> disable Show Items In Stage Manager
+16) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> change 'Click wallpaper to reveal desktop' to 'Only in Stage Manager'
+17) Settings --> Desktop & Dock --> at Mission Control --> enable 'Group windows by application'
+18) Settings --> Displays --> change 'Use as' to 'More Space'
+19) Settings --> Displays --> disable 'Automatically adjust brightness'
+20) Settings --> Wallpaper --> change to own wallpaper
+21) Settings --> Trackpad --> enable 'Tap to click'
 
 ## Step 3: Other Settings
 
