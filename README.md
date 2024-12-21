@@ -84,7 +84,6 @@ restore default behavior:
 - AltTab
 - Hidden Bar
 - Kap (Screen recorder / Screenshot tool)
-- Xnapper (Screenshot tool)
 - Spotify
 - Surfshark
 - Twingate
