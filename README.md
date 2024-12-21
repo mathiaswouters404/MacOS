@@ -75,6 +75,7 @@ restore default behavior:
 ### Applications
 - Firefox
 - Arc
+- Raycast
 - Bitwarden
 - Docker (Docker Desktop)
 - Terminal (iTerm2 + oh my zsh / warp / ...)
@@ -92,7 +93,6 @@ restore default behavior:
 - nvm (node version manager)
 - Git
 - Postman
-- Raycast
 - Figma
 - ...
 
