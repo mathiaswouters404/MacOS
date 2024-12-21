@@ -111,8 +111,12 @@ restore default behavior:
 - iTerm2 Preferences:
   - Open: "Command + ,"
   - Profiles --> Keys --> Presets... --> Natural Text Editing
-  - Profiles --> Colors -->
-
+  - Profiles --> Colors --> Color Presets... --> Import... --> coolnight.itermcolors
+- Install ZSH Plugins:
+  - `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+  - `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+  - `nano ~/.zshrc` --> change `plugins=(git)` to `plugins=(git zsh-autosuggestions zsh-syntax-highlighting)`
+  - `source ~/.zshrc`
 
 ### CLI Tools
 - ...
