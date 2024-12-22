@@ -138,6 +138,10 @@ restore default behavior:
 - Go to GitHub website --> Settings --> SSH and GPG keys --> New SSH key or Add SSH key
 - Give it a title and paste the key in the Key box
 
+### Test SSH Connection
+- `ssh -T git@github.com`
+- Verify that the resulting message contains your username
+
 ## Step 9: dotfiles Setup
 
 [YouTube Video](https://www.youtube.com/watch?v=GK7zLYAXdDs) --> (Minute: 44:53)
