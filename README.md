@@ -12,21 +12,22 @@ Simply, just finish the installer.
 4) Settings --> Appearance --> enable 'Dark mode'
 5) Settings --> Appearance --> change Accent and Highlight colors to color that I want
 6) Settings --> Appearance --> Switch Sidebar icon size to 'Small'
-7) Settings --> Control Center --> change 'Bluetooth' to 'Show in Menu Bar'
-8) Settings --> Control Center --> change 'Sound' to 'Always Show in Menu Bar'
-9) Settings --> Control Center --> at Battery enable 'Show Percentage'
-10) Settings --> Desktop & Dock --> change Size (smaller) and Magnification 
-11) Settings --> Desktop & Dock --> enable 'Minimize windows into application icon'
-12) Settings --> Desktop & Dock --> enable 'Automatically hide and show the Dock'
-13) Settings --> Desktop & Dock --> disable 'Show recent applications in Dock'
-14) Settings --> Desktop & Dock --> disable 'Show suggested and recent apps in Dock'
-15) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> disable Show Items On Desktop --> disable Show Items In Stage Manager
-16) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> change 'Click wallpaper to reveal desktop' to 'Only in Stage Manager'
-17) Settings --> Desktop & Dock --> at Mission Control --> enable 'Group windows by application'
-18) Settings --> Displays --> change 'Use as' to 'More Space'
-19) Settings --> Displays --> disable 'Automatically adjust brightness'
-20) Settings --> Wallpaper --> change to own wallpaper
-21) Settings --> Trackpad --> enable 'Tap to click'
+7) Settings --> Accessibility --> Pointer Control --> Trackpad Options --> enable 'Use trackpad for dragging'
+8) Settings --> Control Center --> change 'Bluetooth' to 'Show in Menu Bar'
+9) Settings --> Control Center --> change 'Sound' to 'Always Show in Menu Bar'
+10) Settings --> Control Center --> at Battery enable 'Show Percentage'
+11) Settings --> Desktop & Dock --> change Size (smaller) and Magnification 
+12) Settings --> Desktop & Dock --> enable 'Minimize windows into application icon'
+13) Settings --> Desktop & Dock --> enable 'Automatically hide and show the Dock'
+14) Settings --> Desktop & Dock --> disable 'Show recent applications in Dock'
+15) Settings --> Desktop & Dock --> disable 'Show suggested and recent apps in Dock'
+16) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> disable Show Items On Desktop --> disable Show Items In Stage Manager
+17) Settings --> Desktop & Dock --> at Desktop & Stage Manager --> change 'Click wallpaper to reveal desktop' to 'Only in Stage Manager'
+18) Settings --> Desktop & Dock --> at Mission Control --> enable 'Group windows by application'
+19) Settings --> Displays --> change 'Use as' to 'More Space'
+20) Settings --> Displays --> disable 'Automatically adjust brightness'
+21) Settings --> Wallpaper --> change to own wallpaper
+22) Settings --> Trackpad --> enable 'Tap to click'
 
 ## Step 3: Other Settings
 
