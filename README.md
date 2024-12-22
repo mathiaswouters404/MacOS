@@ -82,7 +82,7 @@ restore default behavior:
 - `xargs -I {} brew install --cask {} < applications.txt`
 
 #### Install nvm (node.js):
-- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/latest/install.sh | bash`
+- Install nvm with the command in this [link](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
 - `nvm install node`
 
 ## Step 7: iTerm2 + Oh-My-Zsh Setup
