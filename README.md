@@ -104,7 +104,7 @@ restore default behavior:
 
 ### iTerm2 Preferences:
 - Open: "Command + ,"
-- Profiles --> Keys --> Presets... --> Natural Text Editing
+- Profiles --> Keys --> Key Mappings --> Presets... --> Natural Text Editing
 - Profiles --> Colors --> Color Presets... --> Import... --> coolnight.itermcolors
 
 ### Install ZSH Plugins:
